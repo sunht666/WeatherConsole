@@ -8,13 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FreeSql.Provider.SqlServer" Version="3.2.683" />
     <PackageReference Include="Furion" Version="4.8.1.4" />
     <PackageReference Include="Microsoft.ClearScript" Version="7.3.5" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\GCFP.Util\GCFP.Util.csproj" />
+    <PackageReference Include="NPOI" Version="2.6.0" />
   </ItemGroup>
 
   <ItemGroup>
